@@ -20,9 +20,9 @@
     "fs": "0.0.1-security",
     "jslint": "^0.11.0",
     "laravel-mix": "^1.5.0",
+    "lodash": "^4.17.4",
     "node-sass": "^4.5.3",
     "object-path": "^0.11.4",
-    "lodash": "^4.17.4",
     "sass-lint": "^1.12.0",
     "sass-loader": "^6.0.6",
     "url-loader": "^0.6.2",
@@ -30,13 +30,13 @@
     "vue-loader": "^13.0.5",
     "vue-router": "^2.7.0",
     "vue-session": "^0.9.8",
-    "vue-template-compiler": "^2.4.4",
+    "vue-template-compiler": "^2.5.13",
     "vuex": "^2.4.0",
     "vuex-localstorage": "^1.0.0",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
   },
   "dependencies": {
-    "vue": "2.4.4"
+    "vue": "^2.5.13"
   }
 }
