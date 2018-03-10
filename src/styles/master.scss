@@ -3,3 +3,8 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Open Sans';
 }
+
+// Display none the PHP rendered content for SEO
+#content {
+  display: none;
+}
